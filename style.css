@@ -1,0 +1,21 @@
+input {
+    margin: 15px 0px;
+}
+
+
+body {
+    text-align: center;
+    color: white;
+    background-color: rgb(122, 22, 4);
+}
+
+button {
+    text-align: center;
+    margin-top: 15px;
+    transition: all .5s;
+
+}
+ #boasVinda {
+     padding: 10px;
+     margin: 20px 100px;
+ }
